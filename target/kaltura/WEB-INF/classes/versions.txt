@@ -1,0 +1,4 @@
+Project versions (values will be replaced on build):
+Maven: Sakai Kaltura Integration (plugin/tool), version 2.6
+App: 20170710, 
+SVN: r-1, current: r-1 - 

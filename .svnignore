@@ -1,0 +1,6 @@
+# svn ps svn:ignore -F .svnignore .
+target
+bin
+.settings
+.project
+.classpath
